@@ -1,0 +1,7 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "Seeed Studio XIAO Series Library") (type "KiCad") (uri "${KIPRJMOD}/Seeed Studio XIAO Series Library") (options "") (descr ""))
+	(lib (name "local-footprints") (type "KiCad") (uri "${KIPRJMOD}/local-footprints.pretty") (options "") (descr "Modified XIAO nRF52840 footprint"))
+	(lib (name "PCM_marbastlib-choc") (type "KiCad") (uri "${KIPRJMOD}/marbastlib/marbastlib-main/PCM") (options "") (descr "Marbastlib Choc switch footprints"))
+	(lib (name "panelization") (type "KiCad") (uri "${KIPRJMOD}/Panelization.pretty") (options "") (descr "Panelization mousebite footprints"))
+)
